@@ -26,4 +26,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalshelke90&show_icons=true&locale=en" alt="kunalshelke90" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshelke90&" alt="kunalshelke90" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalshelke90&" alt="kunalshelke90" /></p>
+
+<h3 align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kunalshelke90&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+</h3>
+
+<h3 align="center">
+  <img src="https://github.com/kunalshelke90/kunalshelke90/blob/output/github-contribution-grid-snake.svg">
+</h3>
