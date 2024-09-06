@@ -1,6 +1,7 @@
 <h1 align="center">Hi Everyone👋, I'm Kunal Shelke</h1>
 <h3 align="center">A passionate Machine Learning enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://github.com/rudrabarad/Gifs">
+<img align="right" alt="Coding" width="400" src="https://github.com/kunalshelke90/kunalshelke90/blob/main/github%20coding%20.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalshelke90&label=Profile%20views&color=0e75b6&style=flat" alt="kunalshelke90" /> </p>
 
 - 🔭 I’m currently working on **Deep learning**
