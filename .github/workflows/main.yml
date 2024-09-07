@@ -14,28 +14,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Check out the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Step 2: Generate Snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 3: Set up Git (for committing changes)
       - name: Set up Git
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
 
-      - name: Move Snake file and Commit
+      # Step 4: Add Snake file and push to main branch
+      - name: Commit Snake file
         run: |
-          mv dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
-          git commit -m "Generated snake animation"
+          git commit -m "Updated contribution snake"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
