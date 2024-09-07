@@ -1,23 +1,40 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
+# Controls when the action will run.
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch:
+      # every 12 hours
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:  # Allows manual run from the Actions tab.
+  
+  push:
+    branches:
+      - main  # Run on every push to the main branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
-        with:
-          github_user_name: kunalshelke90
-          outputs: dist/snake.svg
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Commit and Push Snake Animation
-        uses: EndBug/add-and-commit@v7
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          add: dist/snake.svg
-          message: "Update snake animation"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+
+      - name: Push Snake Image to Main Branch
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          mv dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generated snake animation"
+          git push
