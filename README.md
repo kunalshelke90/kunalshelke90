@@ -92,7 +92,7 @@
 
 ---
 
-<h3 align="center">GitHub Contribution Snake:</h3>
+<h3 align="center">🐍 GitHub Contribution 🐍:</h3>
 <h3 align="center">
-  <img src="https://github.com/kunalshelke90/kunalshelke90/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/kunalshelke90/kunalshelke90/blob/main/github-contribution-grid-snake.svg">
 </h3>
