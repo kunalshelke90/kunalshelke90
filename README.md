@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kunalshelke90/kunalshelke90/blob/main/github%20coding%20.gif">
 
-- 🔭 I’m currently working on ** Lungs Xray Classfication**
+- 🔭 I’m currently working on **Lungs Xray Classfication**
 
 - 🌱 I’m currently learning **Deep Learning**
 
