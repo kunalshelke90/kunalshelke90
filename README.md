@@ -5,11 +5,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kunal+Shelke!;" />
 </h1>
-<h3 align="center">A passionate Machine Learning enthusiast from India</h3>
+<h3 align="center">A passionate Data Science enthusiast f</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/kunalshelke90/kunalshelke90/blob/main/github%20coding%20.gif">
 
-- 🔭 I’m currently working on **Hate Speech Detection**
+- 🔭 I’m currently working on **News Classification**
 
 - 🌱 I’m currently learning **Deep Learning**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kunal-shelke-a15397327" target="blank">
+  <a href="https://www.linkedin.com/in/kunalshelke/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-shelke-a15397327" height="30" width="40" />
   </a>
 </p>
