@@ -89,5 +89,3 @@
 <h3 align="center">
   <img src="https://github.com/kunalshelke90/kunalshelke90/blob/main/github-contribution-grid-snake.svg">
 </h3>
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
