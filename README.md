@@ -27,7 +27,7 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="500" src="https://github.com/kunalshelke90/kunalshelke90/blob/main/github%20coding%20.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/kunalshelke90/kunalshelke90/blob/main/github%20coding%20.gif">
 
 <h3 align="left"> Data Science::</h3>
 
