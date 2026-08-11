@@ -7,9 +7,9 @@
 </h1>
 <h3 align="center">A Passionate Data Science Enthusiast </h3>
 
-- 🔭 I’m currently working on **News Classification**
+- 🔭 I’m currently working on **RAG System**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunalshelke90](https://github.com/kunalshelke90?tab=repositories)
 
