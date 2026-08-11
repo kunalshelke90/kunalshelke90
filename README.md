@@ -68,7 +68,7 @@
  -->
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<!-- <h3 align="left">GitHub Stats:</h3> --> (##### 1111111111 on 11-8-2026 )
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=kunalshelke90&show_icons=true&locale=en&theme=dark" alt="kunalshelke90" /> -->
@@ -79,11 +79,11 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalshelke90&show_icons=true&locale=en&layout=compact&theme=dark" alt="kunalshelke90" /> -->
 <!--   <img src="https://github-contributor-stats.vercel.app/api?username=kunalshelke90&limit=3&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"> -->
 <!-- </div> -->
-<div align="center">
+<!-- <div align="center">  ( ################### 11-8-2026 full till ------ sign below above git contribution )
   <img src="https://github-readme-stats.vercel.app/api?username=kunalshelke90&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalshelke90&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
----
+</div> -->
+<!-- --- --> 
 
 <h3 align="center">🐍 GitHub Contribution 🐍:</h3>
 <h3 align="center">
